@@ -29,7 +29,6 @@
 								<option id="com.atollic.truestudio.as.symbols.defined.887966497" name="Defined symbols" superClass="com.atollic.truestudio.as.symbols.defined" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="STM32F4XX"/>
 									<listOptionValue builtIn="false" value="STM32F40XX"/>
-									<listOptionValue builtIn="false" value="USE_STDPERIPH_DRIVER"/>
 								</option>
 								<option id="com.atollic.truestudio.as.general.incpath.1410098599" name="Include path" superClass="com.atollic.truestudio.as.general.incpath" valueType="includePath">
 									<listOptionValue builtIn="false" value="../src"/>
@@ -42,7 +41,6 @@
 								<option id="com.atollic.truestudio.gcc.symbols.defined.1631545176" name="Defined symbols" superClass="com.atollic.truestudio.gcc.symbols.defined" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="STM32F4XX"/>
 									<listOptionValue builtIn="false" value="STM32F40XX"/>
-									<listOptionValue builtIn="false" value="USE_STDPERIPH_DRIVER"/>
 								</option>
 								<option id="com.atollic.truestudio.gcc.directories.select.1739165564" name="Include path" superClass="com.atollic.truestudio.gcc.directories.select" valueType="includePath">
 									<listOptionValue builtIn="false" value="../src"/>
